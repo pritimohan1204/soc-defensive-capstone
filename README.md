@@ -41,3 +41,8 @@ This project performs basic keyword-based log triage for educational purposes. K
 Pritimohan Sahu
 
 Cybersecurity Student | Aspiring SOC Analyst 
+## Project Execution
+
+Screenshot of the SOC Defensive Capstone running in Kali Linux:
+
+![SOC Script Execution](soc-triage-output.png)
